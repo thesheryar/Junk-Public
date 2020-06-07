@@ -1,0 +1,9 @@
+<style>
+* {<br />box-sizing: border-box;<br />}</p>
+<p>.homepagebody7829 {<br />margin: 0;<br />font-family: Arial;<br />font-size: 17px;<br />}</p>
+<p>#myVideo7829 {<br />position: fixed;<br />right: 0;<br />bottom: 0;<br />width: 100%;<br />height: 100%;<br />}</p>
+</style>
+<div class="homepagebody7829"><video id="myVideo7829" autoplay="autoplay" loop="loop" muted="" width="100%" height="100%">
+<source src="http://www.tech-development1.com/foxbvcopy/wp-content/uploads/2019/01/1_1.2.mp4" type="video/mp4" />
+Your browser does not support HTML5 video.
+</video></div>
